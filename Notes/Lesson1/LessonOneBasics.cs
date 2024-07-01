@@ -13,7 +13,7 @@ using System.Text;
 // Defines our namespace is HelloWorld
 namespace LessonOne {
     // Our class name is Program
-    public class LessonOneProgram
+    public class Program
     {
 
         // ------ FUNCTIONS ------

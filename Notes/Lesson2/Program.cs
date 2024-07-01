@@ -3,7 +3,7 @@ using System;
 
 namespace LessonTwo
 {
-  class LessonTwoProgram
+  class Program
   {
     //Change LessonTwo => Main()
     static void LessonTwo(string[] args)
