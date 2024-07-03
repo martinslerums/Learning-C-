@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace LessonEight
 {
-  class Box
-  {
+    class Box
+    {
     public double Length { get; set; }
     public double Width { get; set; }
     public double Breadth { get; set; }
@@ -50,7 +50,7 @@ namespace LessonEight
       };
       return newBox;
     }
-
+    /* Uncomment (Commented for warning purposes)
     public static bool operator ==(Box box1, Box box2)
     {
       if ((box1.Length == box2.Length) &&
@@ -72,6 +72,7 @@ namespace LessonEight
       }
       return false;
     }
+    */
 
     // Define how your object is converted
     // into a string by overridding ToString
